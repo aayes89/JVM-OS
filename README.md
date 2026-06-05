@@ -40,6 +40,19 @@ Sistema operativo (baremetal).
 * Apagar sistema
 * Eventos de mouse
 
+# Java Virtual Machine (JVM)
+Implementa una JVM primitiva que permite la ejecución de código compilado, extensión (.class)
+
+# Pendientes
+* Corregir fantasma del cursor en modo gráfico (mejorar driver del mouse).
+* Implementar UI para la terminal.
+* Implementar UI del editor de texto integrado.
+* Implementar UI del reloj del sistema.
+* Implementar audio.
+* Mejorar implementación de navegador de archivos.
+* Añadir cambio de fondo al escritorio (actualmente gradiente de colores)
+* Implementar visor de multimedias (ver imágenes y videos)
+
 # Modo de ejecución
 ### Modo Gráfico
 ```
