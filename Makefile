@@ -1,8 +1,9 @@
 # =========================================================
-# Makefile - Baremetal OS (Dual Drive Mode)
+# Makefile - JVM Baremetal OS (Dual Drive Mode)
 # Disco 0: Bootloader | Disco 1: Kernel
 # Hecho por Allan Ayes 2026
 # Github: https://github.com/aayes89
+# Adaptar CC y LD a tu sistema
 # =========================================================
 
 ASM := nasm
