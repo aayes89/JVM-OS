@@ -1,8 +1,13 @@
 # JVM-OS
 Sistema operativo (baremetal).
 
+# Lenguajes utilizados
+* Assembly en NASM para el bootloader.
+* C para el Kernel, Shell, drivers y aplicaciones.
+
 # Funcionalidades en modo Texto
 ### Comando - Función - Descripción
+```
  * {"help",     help_cmd,      "Mostrar lista de comandos"}
  * {"clear",    clear_cmd,     "Limpiar pantalla"}
  * {"cls",      clear_cmd,     "Limpiar pantalla"}
@@ -28,6 +33,7 @@ Sistema operativo (baremetal).
  * {"reboot",   reboot_cmd,    "Reiniciar el sistema"}
  * {"shutdown", shutdown_cmd,  "Apagar el sistema"}
  * {"info",     info_cmd,      "Información del sistema"}
+```
 
 # Funcionalidades en UI
 * Navegador de archivos
@@ -43,6 +49,12 @@ make clean && make run
 ```
 make clean && make headless
 ```
+# Agradecimientos
+* https://os.phil-opp.com - (Fuente de información para escribir un Sistema en Rust)
+* https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5 - (Recopilatorio de Magic Numbers)
+* https://elm-chan.org - (Librería FatFs)
+* Familia - (Por la paciencia y horas ocupadas cada día (3) en hacer este proyecto)
+
 # Licencias
 * MIT
 * FatFs
