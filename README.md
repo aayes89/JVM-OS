@@ -44,8 +44,8 @@ make clean && make run
 make clean && make headless
 ```
 # Licencias
-## MIT
-## FatFs
+* MIT
+* FatFs
 ```
 /*----------------------------------------------------------------------------/
 /  FatFs - Generic FAT Filesystem Module  Rx.xx                               /
