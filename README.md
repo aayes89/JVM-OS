@@ -44,13 +44,13 @@ Sistema operativo (baremetal).
 Implementa una JVM primitiva que permite la ejecución de código compilado, extensión (.class)
 
 # Pendientes
-* Corregir fantasma del cursor en modo gráfico (mejorar driver del mouse).
-* Implementar UI para la terminal.
+* Corregir fantasma del cursor en modo gráfico (mejorar driver del mouse). (hecho)
+* Implementar UI para la terminal. (hecho)
 * Implementar UI del editor de texto integrado.
-* Implementar UI del reloj del sistema.
+* Implementar UI del reloj del sistema. (hecho)
 * Implementar audio.
 * Mejorar implementación de navegador de archivos.
-* Añadir cambio de fondo al escritorio (actualmente gradiente de colores)
+* Añadir cambio de fondo al escritorio (actualmente gradiente de colores) (hecho, se añade mandelbrot)
 * Implementar visor de multimedias (ver imágenes y videos)
 
 # Modo de ejecución
@@ -94,3 +94,5 @@ make clean && make headless
 
 # Captura de pantalla
 <img width="1021" height="766" alt="imagen" src="https://github.com/user-attachments/assets/016dca45-f91c-4aa6-81e7-7c94192c48c4" />
+<img width="1017" height="766" alt="imagen" src="https://github.com/user-attachments/assets/1a07b3c9-c645-426e-8bae-e6427c2725af" />
+
