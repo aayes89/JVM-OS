@@ -94,5 +94,6 @@ make clean && make headless
 
 # Captura de pantalla
 <img width="1021" height="766" alt="imagen" src="https://github.com/user-attachments/assets/016dca45-f91c-4aa6-81e7-7c94192c48c4" />
-<img width="1017" height="766" alt="imagen" src="https://github.com/user-attachments/assets/1a07b3c9-c645-426e-8bae-e6427c2725af" />
 
+## UI con mejoras añadidas
+<img width="1017" height="766" alt="imagen" src="https://github.com/user-attachments/assets/1a07b3c9-c645-426e-8bae-e6427c2725af" />
